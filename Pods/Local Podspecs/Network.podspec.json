@@ -1,0 +1,22 @@
+{
+  "name": "Network",
+  "version": "0.1.0",
+  "summary": "A short description of Network.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/khoi.nguyen/Network",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "khoi.nguyen": "khoi.nguyen@savvycomsoftware.com"
+  },
+  "source": {
+    "git": "https://github.com/khoi.nguyen/Network.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "Network/Classes/**/*"
+}

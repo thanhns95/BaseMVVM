@@ -1,0 +1,22 @@
+{
+  "name": "Common",
+  "version": "0.1.0",
+  "summary": "A short description of Common.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/khoi.nguyen@savvycomsoftware.com/Common",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "khoi.nguyen": "khoi.nguyen@savvycomsoftware.com"
+  },
+  "source": {
+    "git": "https://github.com/khoi.nguyen@savvycomsoftware.com/Common.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "Common/Classes/**/*"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Home",
+  "version": "0.1.0",
+  "summary": "A short description of Home.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/khoi.nguyen@savvycomsoftware.com/Home",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "khoi.nguyen": "khoi.nguyen@savvycomsoftware.com"
+  },
+  "source": {
+    "git": "https://github.com/khoi.nguyen@savvycomsoftware.com/Home.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "Home/Classes/**/*",
+  "dependencies": {
+    "Common": [
+
+    ],
+    "RxSwift": [
+      "6.5.0"
+    ],
+    "RxCocoa": [
+      "6.5.0"
+    ],
+    "Network": [
+
+    ],
+    "SnapKit": [
+      "5.6.0"
+    ],
+    "Kingfisher": [
+      "~> 7.0"
+    ],
+    "SkeletonView": [
+      "~> 1.0"
+    ]
+  }
+}
